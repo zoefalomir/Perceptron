@@ -11,7 +11,7 @@ The perceptron algorithm dates back to the late 1950s; its first implementation,
 
 You should run first the example of the AND function, then complete with a similar code the exercises of the OR function and the linearly separable classes.
 
-* [Example: the AND function](AND.ipynb)
+* [Example: the AND function](AND-zoe.ipynb)
 * [Exercise: the OR function](OR.ipynb)
 * [Exercise: linearly separable classes](Classes.ipynb)
 
