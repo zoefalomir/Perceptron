@@ -15,4 +15,4 @@ You should run first the example of the AND function, then complete with a simil
 * [Exercise: the OR function](OR.ipynb)
 * [Exercise: linearly separable classes](Classes.ipynb)
 
-For the submission of this task, please follow the instructions of the corresponding workshop in Aula Virtual.
+
